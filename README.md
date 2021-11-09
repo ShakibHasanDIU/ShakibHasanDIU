@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Md. Shakib Hasan Khan
-- 👀 I’m interested in Python, Data Science, Machine Learning
+- 👀 I’m interested in Web Develoment, HTML, CSS, JavaScript, NodeJs, ReactJs
 - 🌱 I’m currently learning Python, Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: shakibhasan.cse.diu@gmail.com Contact no: +8801624192022
